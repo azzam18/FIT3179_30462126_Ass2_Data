@@ -1,97 +1,97 @@
 country,continent,year,lifeExp,pop,gdpPercap,HDI
-Australia,Oceania,1952,69.12,8691212,10039.59564,Developed
-Australia,Oceania,1957,70.33,9712569,10949.64959,Developed
-Australia,Oceania,1962,70.93,10794968,12217.22686,Developed
-Australia,Oceania,1967,71.1,11872264,14526.12465,Developed
-Australia,Oceania,1972,71.93,13177000,16788.62948,Developed
-Australia,Oceania,1977,73.49,14074100,18334.19751,Developed
-Australia,Oceania,1982,74.74,15184200,19477.00928,Developed
-Australia,Oceania,1987,76.32,16257249,21888.88903,Developed
-Australia,Oceania,1992,77.56,17481977,23424.76683,Developed
-Australia,Oceania,1997,78.83,18565243,26997.93657,Developed
-Australia,Oceania,2002,80.37,19546792,30687.75473,Developed
-Australia,Oceania,2007,81.235,20434176,34435.36744,Developed
-Canada,Americas,1952,68.75,14785584,11367.16112,Developed
-Canada,Americas,1957,69.96,17010154,12489.95006,Developed
-Canada,Americas,1962,71.3,18985849,13462.48555,Developed
-Canada,Americas,1967,72.13,20819767,16076.58803,Developed
-Canada,Americas,1972,72.88,22284500,18970.57086,Developed
-Canada,Americas,1977,74.21,23796400,22090.88306,Developed
-Canada,Americas,1982,75.76,25201900,22898.79214,Developed
-Canada,Americas,1987,76.86,26549700,26626.51503,Developed
-Canada,Americas,1992,77.95,28523502,26342.88426,Developed
-Canada,Americas,1997,78.61,30305843,28954.92589,Developed
-Canada,Americas,2002,79.77,31902268,33328.96507,Developed
-Canada,Americas,2007,80.653,33390141,36319.23501,Developed
-India,Asia,1952,37.373,372000000,546.5657493,Developing
-India,Asia,1957,40.249,409000000,590.061996,Developing
-India,Asia,1962,43.605,454000000,658.3471509,Developing
-India,Asia,1967,47.193,506000000,700.7706107,Developing
-India,Asia,1972,50.651,567000000,724.032527,Developing
-India,Asia,1977,54.208,634000000,813.337323,Developing
-India,Asia,1982,56.596,708000000,855.7235377,Developing
-India,Asia,1987,58.553,788000000,976.5126756,Developing
-India,Asia,1992,60.223,872000000,1164.406809,Developing
-India,Asia,1997,61.765,959000000,1458.817442,Developing
-India,Asia,2002,62.879,1034172547,1746.769454,Developing
-India,Asia,2007,64.698,1110396331,2452.210407,Developing
-"Korea, Rep.",Asia,1952,47.453,20947571,1030.592226,Developed
-"Korea, Rep.",Asia,1957,52.681,22611552,1487.593537,Developed
-"Korea, Rep.",Asia,1962,55.292,26420307,1536.344387,Developed
-"Korea, Rep.",Asia,1967,57.716,30131000,2029.228142,Developed
-"Korea, Rep.",Asia,1972,62.612,33505000,3030.87665,Developed
-"Korea, Rep.",Asia,1977,64.766,36436000,4657.22102,Developed
-"Korea, Rep.",Asia,1982,67.123,39326000,5622.942464,Developed
-"Korea, Rep.",Asia,1987,69.81,41622000,8533.088805,Developed
-"Korea, Rep.",Asia,1992,72.244,43805450,12104.27872,Developed
-"Korea, Rep.",Asia,1997,74.647,46173816,15993.52796,Developed
-"Korea, Rep.",Asia,2002,77.045,47969150,19233.98818,Developed
-"Korea, Rep.",Asia,2007,78.623,49044790,23348.13973,Developed
-Russia,Europe,1952,57.26,105967080,365.34567,Developing
-Russia,Europe,1957,63.54,114913779,451.43786,Developing
-Russia,Europe,1962,67.26,122858227,494.92733,Developing
-Russia,Europe,1967,68.35,128187396,662.16104,Developing
-Russia,Europe,1972,68.34,131539634,2091.66238,Developing
-Russia,Europe,1977,67.72,135413334,2866.82734,Developing
-Russia,Europe,1982,67.49,139954624,3568.87389,Developing
-Russia,Europe,1987,68.80,145032888,3777.93728,Developing
-Russia,Europe,1992,67.09,148268581,3099.56401,Developing
-Russia,Europe,1997,65.88,147730019,2738.53063,Developing
-Russia,Europe,2002,65.10,145215700,2378.28790,Developing
-Russia,Europe,2007,66.70,143266212,9101.03854,Developing
-Saudi Arabia,Asia,1952,39.875,4005677,6459.554823,Developing
-Saudi Arabia,Asia,1957,42.868,4419650,8157.591248,Developing
-Saudi Arabia,Asia,1962,45.914,4943029,11626.41975,Developing
-Saudi Arabia,Asia,1967,49.901,5618198,16903.04886,Developing
-Saudi Arabia,Asia,1972,53.886,6472756,24837.42865,Developing
-Saudi Arabia,Asia,1977,58.69,8128505,34167.7626,Developing
-Saudi Arabia,Asia,1982,63.012,11254672,33693.17525,Developing
-Saudi Arabia,Asia,1987,66.295,14619745,21198.26136,Developing
-Saudi Arabia,Asia,1992,68.768,16945857,24841.61777,Developing
-Saudi Arabia,Asia,1997,70.533,21229759,20586.69019,Developing
-Saudi Arabia,Asia,2002,71.626,24501530,19014.54118,Developing
-Saudi Arabia,Asia,2007,72.777,27601038,21654.83194,Developing
-Turkey,Europe,1952,43.585,22235677,1969.10098,Developing
-Turkey,Europe,1957,48.079,25670939,2218.754257,Developing
-Turkey,Europe,1962,52.098,29788695,2322.869908,Developing
-Turkey,Europe,1967,54.336,33411317,2826.356387,Developing
-Turkey,Europe,1972,57.005,37492953,3450.69638,Developing
-Turkey,Europe,1977,59.507,42404033,4269.122326,Developing
-Turkey,Europe,1982,61.036,47328791,4241.356344,Developing
-Turkey,Europe,1987,63.108,52881328,5089.043686,Developing
-Turkey,Europe,1992,66.146,58179144,5678.348271,Developing
-Turkey,Europe,1997,68.835,63047647,6601.429915,Developing
-Turkey,Europe,2002,70.845,67308928,6508.085718,Developing
-Turkey,Europe,2007,71.777,71158647,8458.276384,Developing
-United States,Americas,1952,68.44,157553000,13990.48208,Developed
-United States,Americas,1957,69.49,171984000,14847.12712,Developed
-United States,Americas,1962,70.21,186538000,16173.14586,Developed
-United States,Americas,1967,70.76,198712000,19530.36557,Developed
-United States,Americas,1972,71.34,209896000,21806.03594,Developed
-United States,Americas,1977,73.38,220239000,24072.63213,Developed
-United States,Americas,1982,74.65,232187835,25009.55914,Developed
-United States,Americas,1987,75.02,242803533,29884.35041,Developed
-United States,Americas,1992,76.09,256894189,32003.93224,Developed
-United States,Americas,1997,76.81,272911760,35767.43303,Developed
-United States,Americas,2002,77.31,287675526,39097.09955,Developed
-United States,Americas,2007,78.242,301139947,42951.65309,Developed
+Australia,Oceania,1950,69.12,8691212,10039.59564,Developed
+Australia,Oceania,1955,70.33,9712569,10949.64959,Developed
+Australia,Oceania,1960,70.93,10794968,12217.22686,Developed
+Australia,Oceania,1965,71.1,11872264,14526.12465,Developed
+Australia,Oceania,1970,71.93,13177000,16788.62948,Developed
+Australia,Oceania,1975,73.49,14074100,18334.19751,Developed
+Australia,Oceania,1980,74.74,15184200,19477.00928,Developed
+Australia,Oceania,1985,76.32,16257249,21888.88903,Developed
+Australia,Oceania,1990,77.56,17481975,23424.76683,Developed
+Australia,Oceania,1995,78.83,18565243,26997.93657,Developed
+Australia,Oceania,2000,80.37,19546792,30687.75473,Developed
+Australia,Oceania,2005,81.235,20434176,34435.36744,Developed
+Canada,Americas,1950,68.75,14785584,11367.16112,Developed
+Canada,Americas,1955,69.96,17010154,12489.95006,Developed
+Canada,Americas,1960,71.3,18985849,13462.48555,Developed
+Canada,Americas,1965,72.13,20819767,16076.58803,Developed
+Canada,Americas,1970,72.88,22284500,18970.57086,Developed
+Canada,Americas,1975,74.21,23796400,22090.88306,Developed
+Canada,Americas,1980,75.76,25201900,22898.79214,Developed
+Canada,Americas,1985,76.86,26549700,26626.51503,Developed
+Canada,Americas,1990,77.95,28523502,26342.88426,Developed
+Canada,Americas,1995,78.61,30305843,28954.92589,Developed
+Canada,Americas,2000,79.77,31902268,33328.96507,Developed
+Canada,Americas,2005,80.653,33390141,36319.23501,Developed
+India,Asia,1950,37.373,372000000,546.5657493,Developing
+India,Asia,1955,40.249,409000000,590.061996,Developing
+India,Asia,1960,43.605,454000000,658.3471509,Developing
+India,Asia,1965,47.193,506000000,700.7706107,Developing
+India,Asia,1970,50.651,567000000,724.032527,Developing
+India,Asia,1975,54.208,634000000,813.337323,Developing
+India,Asia,1980,56.596,708000000,855.7235377,Developing
+India,Asia,1985,58.553,788000000,976.5126756,Developing
+India,Asia,1990,60.223,872000000,1164.406809,Developing
+India,Asia,1995,61.765,959000000,1458.817442,Developing
+India,Asia,2000,62.879,1034172547,1746.769454,Developing
+India,Asia,2005,64.698,1110396331,2452.210407,Developing
+"Korea, Rep.",Asia,1950,47.453,20947571,1030.592226,Developed
+"Korea, Rep.",Asia,1955,52.681,22611552,1487.593537,Developed
+"Korea, Rep.",Asia,1960,55.292,26420307,1536.344387,Developed
+"Korea, Rep.",Asia,1965,57.716,30131000,2029.228142,Developed
+"Korea, Rep.",Asia,1970,62.612,33505000,3030.87665,Developed
+"Korea, Rep.",Asia,1975,64.766,36436000,4657.22102,Developed
+"Korea, Rep.",Asia,1980,67.123,39326000,5622.942464,Developed
+"Korea, Rep.",Asia,1985,69.81,41622000,8533.088805,Developed
+"Korea, Rep.",Asia,1990,72.244,43805450,12104.27872,Developed
+"Korea, Rep.",Asia,1995,74.647,46173816,15993.52796,Developed
+"Korea, Rep.",Asia,2000,77.045,47969150,19233.98818,Developed
+"Korea, Rep.",Asia,2005,78.623,49044790,23348.13973,Developed
+Russia,Europe,1950,57.26,105967080,365.34567,Developing
+Russia,Europe,1955,63.54,114913779,451.43786,Developing
+Russia,Europe,1960,67.26,122858227,494.92733,Developing
+Russia,Europe,1965,68.35,128187396,662.16104,Developing
+Russia,Europe,1970,68.34,131539634,2091.66238,Developing
+Russia,Europe,1975,67.72,135413334,2866.82734,Developing
+Russia,Europe,1980,67.49,139954624,3568.87389,Developing
+Russia,Europe,1985,68.80,145032888,3777.93728,Developing
+Russia,Europe,1990,67.09,148268581,3099.56401,Developing
+Russia,Europe,1995,65.88,147730019,2738.53063,Developing
+Russia,Europe,2000,65.10,145215700,2378.28790,Developing
+Russia,Europe,2005,66.70,143266212,9101.03854,Developing
+Saudi Arabia,Asia,1950,39.875,4005677,6459.554823,Developing
+Saudi Arabia,Asia,1955,42.868,4419650,8157.591248,Developing
+Saudi Arabia,Asia,1960,45.914,4943029,11626.41975,Developing
+Saudi Arabia,Asia,1965,49.901,5618198,16903.04886,Developing
+Saudi Arabia,Asia,1970,53.886,6472756,24837.42865,Developing
+Saudi Arabia,Asia,1975,58.69,8128505,34167.7626,Developing
+Saudi Arabia,Asia,1980,63.012,11254672,33693.17525,Developing
+Saudi Arabia,Asia,1985,66.295,14619745,21198.26136,Developing
+Saudi Arabia,Asia,1990,68.768,16945857,24841.61777,Developing
+Saudi Arabia,Asia,1995,70.533,21229759,20586.69019,Developing
+Saudi Arabia,Asia,2000,71.626,24501530,19014.54118,Developing
+Saudi Arabia,Asia,2005,72.777,27601038,21654.83194,Developing
+Turkey,Europe,1950,43.585,22235677,1969.10098,Developing
+Turkey,Europe,1955,48.079,25670939,2218.754257,Developing
+Turkey,Europe,1960,52.098,29788695,2322.869908,Developing
+Turkey,Europe,1965,54.336,33411317,2826.356387,Developing
+Turkey,Europe,1970,57.005,37492953,3450.69638,Developing
+Turkey,Europe,1975,59.507,42404033,4269.122326,Developing
+Turkey,Europe,1980,61.036,47328791,4241.356344,Developing
+Turkey,Europe,1985,63.108,52881328,5089.043686,Developing
+Turkey,Europe,1990,66.146,58179144,5678.348271,Developing
+Turkey,Europe,1995,68.835,63047647,6601.429915,Developing
+Turkey,Europe,2000,70.845,67308928,6508.085718,Developing
+Turkey,Europe,2005,71.777,71158647,8458.276384,Developing
+United States,Americas,1950,68.44,157553000,13990.48208,Developed
+United States,Americas,1955,69.49,171984000,14847.12712,Developed
+United States,Americas,1960,70.21,186538000,16173.14586,Developed
+United States,Americas,1965,70.76,198512000,19530.36557,Developed
+United States,Americas,1970,71.34,209896000,21806.03594,Developed
+United States,Americas,1975,73.38,220239000,24072.63213,Developed
+United States,Americas,1980,74.65,232187835,25009.55914,Developed
+United States,Americas,1985,75.02,242803533,29884.35041,Developed
+United States,Americas,1990,76.09,256894189,32003.93224,Developed
+United States,Americas,1995,76.81,272911760,35767.43303,Developed
+United States,Americas,2000,77.31,287675526,39097.09955,Developed
+United States,Americas,2005,78.242,301139947,42951.65309,Developed
